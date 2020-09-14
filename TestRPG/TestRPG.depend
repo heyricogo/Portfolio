@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1404516958 source:/Users/beneric/Documents/dakeyras/projets/TestRPG/Arme.cpp
+	"Arme.h"
+
+1404516995 /Users/beneric/Documents/dakeyras/projets/TestRPG/Arme.h
+	<iostream>
+	<string>
+
+1404517010 source:/Users/beneric/Documents/dakeyras/projets/TestRPG/Personnage.cpp
+	"Personnage.h"
+
+1404518738 /Users/beneric/Documents/dakeyras/projets/TestRPG/Personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+

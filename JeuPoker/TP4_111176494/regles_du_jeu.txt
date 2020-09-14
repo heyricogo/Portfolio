@@ -1,0 +1,31 @@
+Règles du jeu de Poker d'as
+
+Nombre de joueurs : 
+Minimum de deux, maximum de trois
+
+But du jeu : 
+Obtenir, à la fin du tour de l'ensemble des joueurs, la main avec la meilleure combinaison.
+
+Nombre de dés : 
+Cinq dés à six faces (Faces du dé : As, Roi, Dame, Valet, X, 9)
+
+Déroulement : 
+- Sélectionner le nombre de joueurs.
+- Entrer le nom des joueurs.
+- Choisir si les As sont joker ou non.
+- Lorsque les configurations du jeu sont complétées, l'ordre des joueurs est tiré au hasard.
+- Le premier joueur lance cinq dés et a un maximum de deux relances.
+- Le nombre de relance du premier joueur détermine le nombre de lancer maximum des autres joueurs.
+- Le joueur qui aura obtenu la meilleure combinaison remporte la partie. 
+
+Combinaisons:
+- Quinton = Cinq dés identiques
+- Carré = Quatre dés identiques
+- Full = Trois dés identiques + deux dés identiques
+- Séquence = Une suite de cinq dés qui se suivent
+- Brelan = Trois dés identiques
+- Deux paires = Deux dés identiques + deux dés identiques
+- Une paire = Deux dés identiques
+
+As sont joker:
+Lorsque l'option "As sont joker" est sélectionnée, l'as prend la valeur qui maximise la force de la combinaison.
